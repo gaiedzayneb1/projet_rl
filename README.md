@@ -1,3 +1,4 @@
+Reinforcement Learning from Human Feedback (RLHF) in Notebooks
 🧠 Résumé du projet : Reinforcement Learning from Human Feedback (RLHF) in Notebooks
 
 Ce projet propose une implémentation pédagogique et pas à pas du framework RLHF (Reinforcement Learning from Human Feedback) à l’aide de Jupyter Notebooks. L’objectif est de montrer concrètement comment aligner un modèle de langage pré-entraîné (GPT-2) avec des préférences humaines en combinant apprentissage supervisé, apprentissage par renforcement et modèles de récompense.
